@@ -35,7 +35,7 @@
 | Logistic Regression / Lojistik Regresyon | 95.52% | 2.65 s |
 | Support Vector Machines (SVM) | 95.18% | 2.02 s |
 | Gradient Boosting | 93.99% | 583.94 s |
-| Extra Trees | 93.96% | 2.05 s] |
+| Extra Trees | 93.96% | 2.05 s |
 | Random Forest / Rastgele Orman | 92.60% | 9.36 s |
 | QDA | 92.43% | 0.80 s |
 | KNN | 88.36% | 0.02 s |
