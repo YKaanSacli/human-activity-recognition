@@ -4,3 +4,11 @@ matplotlib
 seaborn
 scikit-learn
 notebook
+joblib
+streamlit
+torch
+shap
+pytest
+fastapi
+uvicorn
+pydantic
